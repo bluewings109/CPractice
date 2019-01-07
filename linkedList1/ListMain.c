@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "ArrayList.h"
 
-int main(void) {
+int main_for_ArrayList_Data_int(void) {
 	//ArrayList의 생성 및 초기화
 	List list;
 	int data;
